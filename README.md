@@ -1,2 +1,2 @@
-# job-loss-vs-covid-mortality
+# Low Income Job Loss During COVID-19
 Capstone Project: Low Income Job Loss During COVID-19
